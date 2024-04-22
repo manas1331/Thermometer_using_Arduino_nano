@@ -28,7 +28,7 @@
 ## Hardware Required are:
 
 * Arduino Nano Microcontroller
-* NTC 103 temperature sensor(lm35)
+* NTC 103 temperature sensor(lm 35)
 * 10k ohm resistor,220 ohm resistor
 * 16 x 2 LCD display
 * Jumper wires(male-male/female-male)
