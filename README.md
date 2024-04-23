@@ -21,7 +21,8 @@
 ## Hardware Prototype Image :
 
 ![image](https://github.com/manas1331/Thermometer_using_Arduino_nano/assets/122677792/07ec104d-ddab-43ec-b3da-fad97a2ced3f)
-![image](https://github.com/manas1331/Thermometer_using_Arduino_nano/assets/122677792/a3e1990e-0097-41aa-9b3e-f86502dc871b)
+![image](https://github.com/manas1331/Thermometer_using_Arduino_nano/assets/122677792/21f07707-bf4c-4d5d-bdab-9facc1445b48)
+
 
 ---
 
