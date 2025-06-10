@@ -1,6 +1,6 @@
 # Thermometer using Arduino Nano Microcontroller
 ---
-### Built a Celsius Scale thermometer using Arduino Nano Microcontroller, lm35 sensor(Thermistor),resistors ,16x2 LCD display ,we can also print the temperature in Fahrenheit and Kelvin scale also.
+### Built a Celsius Scale thermometer using Arduino Nano Microcontroller, lm35 sensor(Thermistor),resistors ,16x2 LCD display ,we can also print the temperature in Fahrenheit and Kelvin scale also.The code is executed using Arduino IDE.
 ---
 * To print in Kelvin Scale change these lines of the code to :
 <br></br>
